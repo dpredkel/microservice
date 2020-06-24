@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "microservice",
+    "packageName": "com.example.blog",
+    "packageFolder": "com/example/blog",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTE0NzdjNDEzN2UzNDIwM2JhZGQzMjdmNGZhNTc0MjQ0MjVlOTBmYjVhNTRiMzRkNzI1NjRkNjM4OTgwNzZhZjg5MjE4YWYxMGQ4OWQ0ZmUyN2U5YWUzNmViNTBkNDRmM2E0MWVlNDA5MzMyNWZiMjg3NzI2NzcxN2YxYjk0OTY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1592996873039,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "ru", "es"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
